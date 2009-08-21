@@ -1,0 +1,29 @@
+--- #YAML:1.0
+name:                DBR
+version:             trunk_275
+abstract:            ~
+license:             ~
+author:              ~
+generated_by:        ExtUtils::MakeMaker version 6.42
+distribution_type:   module
+requires:     
+    Carp:                          0
+    Class::Std:                    0
+    Clone:                         0
+    Curses::UI:                    0
+    Data::Dumper:                  0
+    DateTime::TimeZone:            0
+    DBD::SQLite:                   1.20
+    DBI:                           0
+    Digest::MD5:                   0
+    Error:                         0
+    FileHandle:                    0
+    POSIX:                         0
+    Scalar::Util:                  0
+    Symbol:                        0
+    Test::More:                    0
+    Time::HiRes:                   0
+    Time::ParseDate:               0
+meta-spec:
+    url:     http://module-build.sourceforge.net/META-spec-v1.3.html
+    version: 1.3
